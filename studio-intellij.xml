@@ -17,13 +17,14 @@
           <option name="user" value="sa" />
         </SavedDbProperties>
         <SavedDbProperties>
-          <option name="databaseName" value="petclinic-heroku" />
+          <option name="databaseName" value="petclinic" />
           <option name="dbType" value="postgres" />
-          <option name="host" value="localhost" />
-          <option name="pass" value="postgres" />
+          <option name="dbmsVersion" />
+          <option name="host" value="ec2-34-250-219-113.eu-west-1.compute.amazonaws.com" />
+          <option name="pass" value="vaGcnV2i" />
           <option name="systemPassword" value="" />
           <option name="systemUser" value="" />
-          <option name="url" value="jdbc:postgresql://localhost/petclinic-heroku" />
+          <option name="url" value="jdbc:postgresql://ec2-34-250-219-113.eu-west-1.compute.amazonaws.com/petclinic" />
           <option name="user" value="postgres" />
         </SavedDbProperties>
       </list>
